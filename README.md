@@ -1,7 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
 ## Name: Pratheesh kumar N
 ## Reg No: 212224020041
-## Date:
+## Date:18-09-2025
 # IAPR-3- Module 3 - FoC
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
